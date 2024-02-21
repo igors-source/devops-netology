@@ -11,3 +11,4 @@
 Будут проигнорированы файлы override.tf, override.tf.json, файлы заканчивающиеся на _override.tf, _override.tf.json
 
 Будут проигнорированы файлы .terraformrc terraform.rc
+another new line
