@@ -12,3 +12,4 @@
 
 Будут проигнорированы файлы .terraformrc terraform.rc
 another new line
+edited in vs code
